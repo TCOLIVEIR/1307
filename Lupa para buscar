@@ -1,5 +1,5 @@
-Cenário : como usuário eu quero  digitar infor e usar a lupa para buscar
-Dado que estou logado em  um navegador
-Quando digito informações nna barra de busca 
-E aciono a lupa 
-Então o navegador exibe itens de busca de acordo com a pesquisa informad
+Cenário: como usuário utilizando o DuckDuckGo, gostaria de realizar buscas
+Dado que estou utilizando o  DuckDuckGo
+Quando insiro informações no filtro de busca
+E aciono a lUpa
+Então é exibido em tela informações referentes a minha pesquisa
