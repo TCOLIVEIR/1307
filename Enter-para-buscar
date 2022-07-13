@@ -1,6 +1,5 @@
-Cenário: como usuário do navegador, desejp realizar uma busca pressionando o enter para buscar
-Dado que estou em navegador
-Quando acesso a barra de busca
-E digito insiro informações no filtro
-E pressiono enter
-Então o sistema exibe na tela informações de acordo com o filtro
+Cenário:  utilizando o duckduckgo eu gostaria de realizar buscas
+Dado que estou  em @DuckDuckGo
+Quando digito informações no filtro 
+E  pressiono o botão enter
+Então  devem aparecer informações referentes a minha busca na tela
