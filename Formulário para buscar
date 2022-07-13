@@ -1,0 +1,6 @@
+Cenário: como usuária do DuckDuckGo, eu gostaria de realizar buscas por fomulários
+Dado que estou em @DuckDuckgo
+Quando  vou em realizar buscas por formulários
+E insiro informações nos campos
+E clico em pesquisar
+Então o sistema retorna a busca de acordo com os campos preenchido. 
