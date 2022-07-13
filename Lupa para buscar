@@ -2,4 +2,4 @@ Cenário : como usuário eu quero  digitar infor e usar a lupa para buscar
 Dado que estou logado em  um navegador
 Quando digito informações nna barra de busca 
 E aciono a lupa 
-Então o navegador exibe itens de busca de acordo com a pesquisa informada
+Então o navegador exibe itens de busca de acordo com a pesquisa informad
